@@ -1,0 +1,36 @@
+.card{
+    background: rgb(202, 239, 246);
+    width: 500px;
+    margin: 200px auto 0px auto;
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-bottom: 5px solid pink;
+}
+
+img{
+    width: 200px;
+}
+
+/* .text{
+    margin-left: 100px;
+    margin-top: 20px;
+} */
+
+h2{
+    font-weight: lighter;
+    /* margin-left: 60px; */
+}
+
+.pune{
+    /* margin-left: 18px; */
+}
+
+/* .bottom{
+    background: pink;
+    height: 5px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+} */
